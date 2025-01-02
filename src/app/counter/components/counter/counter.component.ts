@@ -22,5 +22,3 @@ export class CounterComponent  {
     this.counter = 10;
   }
 }
-
-
